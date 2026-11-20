@@ -9,7 +9,7 @@ while True:
 
   if choice =="1":
     task = input("Enter a task:")
-    tasks.apend(task)
+    tasks.append(task)
     print("Added:",task)
 
   elif choice =="2":
